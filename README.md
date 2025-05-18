@@ -21,6 +21,7 @@ This repository contains a Python script to clean and preprocess the Telco Custo
       cd churn-data-cleaning
   ```
 3.Execute by the following command in terminal
-    python data_cleaning.py
+  ```bash
+  python data_cleaning.py
 
 
